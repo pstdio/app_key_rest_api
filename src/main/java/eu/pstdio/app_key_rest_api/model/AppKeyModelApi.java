@@ -1,4 +1,4 @@
-package eu.pstdio.appkey_rest_api.model;
+package eu.pstdio.app_key_rest_api.model;
 
 /**
  *
